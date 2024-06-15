@@ -1,4 +1,3 @@
-# CA_First_Project_LP1
 # Indian Start-up Funding Analysis (2018 - 2021)
 
 Ideas, creativity, and execution are essential for a start-up to flourish. But are they enough? Investors provide start-ups and other entrepreneurial ventures with the capital, popularly known as "funding"---to think big, grow rich, and leave a lasting impact.
